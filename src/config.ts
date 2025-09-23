@@ -63,7 +63,6 @@ export const siteConfig = {
       name: "E-commerce Platform",
       description:
         "Multi-page responsive e-commerce site with cart, checkout, and order management. Backend built with Django and DRF, frontend with Bootstrap & jQuery.",
-      link: "ADD_LINK_HERE",
       skills: ["Django", "DRF", "Bootstrap", "jQuery", "HTML", "CSS", "Javascript", "PostgreSQL", "Stripe"],
     }
   ],
